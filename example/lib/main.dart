@@ -11,8 +11,8 @@ import 'player_widget.dart';
 
 typedef void OnError(Exception exception);
 
-const kUrl1 = 'http://www.rxlabz.com/labz/audio.mp3';
-const kUrl2 = 'http://www.rxlabz.com/labz/audio2.mp3';
+const kUrl1 = 'http://sip-ruv-vod.dcp.adaptive.level3.net/opid/2018/11/08/4928956\$5.mp3';
+const kUrl2 = 'http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras1/_definst_/live.m3u8';
 
 void main() {
   runApp(new MaterialApp(home: new ExampleApp()));
